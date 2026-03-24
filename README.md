@@ -1,2 +1,5 @@
 # Advanced-Python-Adventures
-## I will build an ai model for the final project
+## My Python Goals
+** Review materials thoroughly
+** More consult time
+** Use class time effectively
